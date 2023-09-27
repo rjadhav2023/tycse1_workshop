@@ -1,0 +1,10 @@
+Commands for students on git bash by using https:
+1) git clone  https://github.com/rjadhav2023/tycse1_workshop.git
+2) cd  tycse1_workshop.git
+3) create dir or folder by your prn no
+4) create source code files
+5) Come to back tycse1_workshop.git dir
+6) git config user.email "your email id"
+6) git add -A
+7)  git commit -m "First commit"
+8) git push -u -f origin main
